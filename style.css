@@ -1,0 +1,114 @@
+body {
+
+  font-family: Helvetica, Georgia, "Times New Roman",
+        Times, serif;
+  color: black;
+  background-image: url("back2.png");
+  background-color: #FFD4AA }
+
+
+@font-face {
+    font-family: toast;
+    src: url('img/toast.otf');
+}
+
+
+
+
+div#central{
+background-color: #FFFFFF;
+
+width: 1000px;
+
+margin-left: auto;
+margin-right: auto;
+margin-top: 2em;
+margin-bottom: 2em;
+
+padding-top: 3em;
+padding-bottom: 3em;
+padding-left: 3em;
+padding-right: 3em;
+}
+
+
+
+div.classe{
+width:100%;
+padding-left:2em;
+}
+
+div.vacances{
+font-weight: bold;
+width:100%;
+padding-left:2em;
+}
+
+div.lien{
+width:100%;
+height:243px;
+overflow: hidden;
+}
+
+div.flotte_gauche{
+float: left;
+}
+
+div.flotte_droite{
+float: right;
+}
+
+
+
+div.separa{
+text-align:center;
+padding-top: 3em;
+padding-bottom:3em;
+}
+
+
+
+
+/* Titres */
+
+h1 {
+  font-family: toast;
+font-size: 70px;}
+
+h2 { 
+  font-family: toast;
+font-size: 55px;}
+
+h3 { 
+color: #555555;
+  font-family: Helvetica;
+font-size: 30px;}
+
+
+
+
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+
+ul.navbar a {
+  text-decoration: none }
+
+a:link {
+  color: #AA5585;
+text-decoration:none; }
+a:visited {
+  color: #AA5585 ;
+text-decoration:none; }
+
+a:hover {
+  color: #AA5585;
+text-decoration:underline; }
+
+
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+border-top: thin dotted }
