@@ -2,7 +2,7 @@
 
 Recueil d'énoncés et de solutions de colles de mathématiques pour MPSI, MP et MP*.
 
-Le site est visible à cette adresse [https://lucas-test.github.io/colles/].
+Le site est visible à cette adresse [https://lucas-isenmann.github.io/colles/].
 
 ## English version
 
